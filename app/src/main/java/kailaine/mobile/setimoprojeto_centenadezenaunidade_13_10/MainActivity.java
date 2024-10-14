@@ -16,7 +16,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     private EditText etNumero;
-    private TextView tvCentena, tvDezena, tvUnidade, tvErro; // Adicionando tvErro
+    private TextView tvCentena, tvDezena, tvUnidade, tvErro;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
