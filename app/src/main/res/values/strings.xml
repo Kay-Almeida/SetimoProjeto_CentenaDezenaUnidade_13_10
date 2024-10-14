@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CentenaDezenaUnidade</string>
+    <string name="insira_numero">Insira um número entre 100 e 999</string>
+    <string name="calcular">Calcular</string>
+    <string name="centena">CENTENA = </string>
+    <string name="dezena">DEZENA = </string>
+    <string name="unidade">UNIDADE = </string>
+    <string name="erro_entrada_vazia">Por favor, insira um número.</string>
+    <string name="entrada_numero_invalida">Número inválido! Insira um número entre 100 e 999.</string>
+</resources>
